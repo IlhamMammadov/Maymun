@@ -1,6 +1,3 @@
-/*
- * Decompiled with CFR 0_115.
- */
 package codes;
 
 import java.awt.CardLayout;
